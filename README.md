@@ -1,5 +1,9 @@
 # SnailSvn-Helper
-Sublime right-click shortcut menu extension based on [SnailSVN](https://apps.apple.com/cn/app/snailsvn/id847259925) or [SnailSVNLite](https://apps.apple.com/cn/app/snailsvn/id1063090543)
+SnailSVN is a TortoiseSVN-like Apache Subversion (SVN) client for Mac OS X, implemented as a Finder extension.
+
+official website is: https://langui.net/snailsvn/
+
+this package will allow users to directly perform SVN operations in Sublime
 
 ## How to use
 You can see this shortcut menu by right-clicking the contents of the file, or by right-clicking in Explorer
